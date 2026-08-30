@@ -1,2 +1,2 @@
-# open-maker-bages
+# open-maker-badges
 Open Badges for Makerspaces and Maker Education
